@@ -1,0 +1,10 @@
+{% extends "base/base.html" %}
+
+{% block content %}
+    <h2>&Uacute;ltimos nodos actualizados</h2>
+    <ul>
+        {% for node in latest_nodes_list %}
+            <li>{{ node.name }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}

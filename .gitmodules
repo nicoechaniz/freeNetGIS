@@ -1,0 +1,15 @@
+[submodule "static/lib/openlayers"]
+	path = static/lib/openlayers
+	url = git://github.com/openlayers/openlayers.git
+[submodule "static/steal"]
+	path = static/steal
+	url = git@github.com:arielcamino/steal.git
+[submodule "static/jquery"]
+	path = static/jquery
+	url = git@github.com:arielcamino/jquerymx.git
+[submodule "static/documentjs"]
+	path = static/documentjs
+	url = git@github.com:arielcamino/documentjs.git
+[submodule "static/funcunit"]
+	path = static/funcunit
+	url = git@github.com:arielcamino/funcunit.git

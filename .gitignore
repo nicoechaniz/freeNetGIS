@@ -1,0 +1,6 @@
+tags
+world/data/*
+*.pyc
+.project
+.pydevproject
+.settings

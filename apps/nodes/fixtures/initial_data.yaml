@@ -1,0 +1,23 @@
+- model: nodes.node
+  pk: 1
+  fields:
+    name: AlasLibres
+    creation_date: 2011-01-29 14:33:28
+    updated_date: 2011-01-29 14:33:28
+    address: |
+             Bouchard entre Florencio Varela
+             y Velez Sarfield
+    antenna_elevation: 12
+    ubication: POINT(-58.385531 -34.68987601495237)
+    
+- model: nodes.node
+  pk: 2
+  fields:
+    name: NodoOSiUX
+    creation_date: 2011-01-30 14:33:28
+    updated_date: 2011-01-30 14:33:28
+    address: |
+             Eleodoro Lobos 
+             esquina Bogotá
+    antenna_elevation: 36
+    ubication: POINT(-58.43533515930176 -34.61389051815993)
