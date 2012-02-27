@@ -13,3 +13,6 @@
 [submodule "static/funcunit"]
 	path = static/funcunit
 	url = git@github.com:arielcamino/funcunit.git
+[submodule "static/openlayers"]
+	path = static/openlayers
+	url = git@github.com:arielcamino/openlayers.git
